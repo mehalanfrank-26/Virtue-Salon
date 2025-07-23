@@ -1,0 +1,28 @@
+customer_id,name,email,phone,service,Category,date
+1,Priya,priya.s@example.com,943283293,Haircut,Hair,2025-01-10
+1,Priya,priya.s@example.com,943283293,Facial,Skin,2025-01-20
+1,Priya,priya.s@example.com,943283293,Haircut,Hair,2025-02-10
+1,Priya,priya.s@example.com,943283293,Haircut,Hair,2025-03-12
+2,Rahul,rahul.k@example.com,876543210,Beard Trim,Hair,2025-01-15
+2,Rahul,rahul.k@example.com,876543210,Haircut,Hair,2025-02-15
+2,Rahul,rahul.k@example.com,876543210,Beard Trim,Hair,2025-03-15
+3,Sneha,sneha.m@example.com,987654321,Manicure,Nails,2025-01-05
+3,Sneha,sneha.m@example.com,987654321,Pedicure,Nails,2025-02-05
+3,Sneha,sneha.m@example.com,987654321,Manicure,Nails,2025-03-05
+4,Amit,amit.p@example.com,765432109,Haircut,Hair,2025-01-25
+4,Amit,amit.p@example.com,765432109,Haircut,Hair,2025-03-25
+5,Deepa,deepa.r@example.com,901234567,Hair Spa,Hair,2025-02-01
+5,Deepa,deepa.r@example.com,901234567,Haircut,Hair,2025-03-01
+5,Deepa,deepa.r@example.com,901234567,Hair Spa,Hair,2025-04-01
+6,Vikram,vikram.g@example.com,890123456,Facial,Skin,2025-01-12
+6,Vikram,vikram.g@example.com,890123456,Massage,Wellness,2025-03-12
+7,Pooja,pooja.h@example.com,789012345,Hair Color,Hair,2025-02-20
+7,Pooja,pooja.h@example.com,789012345,Haircut,Hair,2025-04-20
+8,Suresh,suresh.j@example.com,678901234,Pedicure,Nails,2025-01-30
+8,Suresh,suresh.j@example.com,678901234,Manicure,Nails,2025-03-30
+9,Nisha,nisha.l@example.com,912345678,Waxing,Hair Removal,2025-02-25
+9,Nisha,nisha.l@example.com,912345678,Haircut,Hair,2025-04-25
+10,Arjun,arjun.n@example.com,801234567,Beard Trim,Hair,2025-01-01
+10,Arjun,arjun.n@example.com,801234567,Haircut,Hair,2025-03-01
+10,Arjun,arjun.n@example.com,801234567,Beard Trim,Hair,2025-05-01
+10,Arjun,arjun.n@example.com,801234567,Haircut,Hair,2025-06-06

@@ -1,0 +1,203 @@
+[
+  {
+    "customer_id":1,
+    "name":"Priya",
+    "email":"priya.s@example.com",
+    "phone":943283293,
+    "frequent_services":[
+      "Haircut"
+    ],
+    "rare_services":[
+      "Facial"
+    ],
+    "inactive_categories":[
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-03-12",
+    "missed_visit":true
+  },
+  {
+    "customer_id":2,
+    "name":"Rahul",
+    "email":"rahul.k@example.com",
+    "phone":876543210,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Haircut"
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-03-15",
+    "missed_visit":true
+  },
+  {
+    "customer_id":3,
+    "name":"Sneha",
+    "email":"sneha.m@example.com",
+    "phone":987654321,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Pedicure"
+    ],
+    "inactive_categories":[
+      "Hair",
+      "Skin",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-03-05",
+    "missed_visit":true
+  },
+  {
+    "customer_id":4,
+    "name":"Amit",
+    "email":"amit.p@example.com",
+    "phone":765432109,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-03-25",
+    "missed_visit":true
+  },
+  {
+    "customer_id":5,
+    "name":"Deepa",
+    "email":"deepa.r@example.com",
+    "phone":901234567,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Haircut"
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-04-01",
+    "missed_visit":true
+  },
+  {
+    "customer_id":6,
+    "name":"Vikram",
+    "email":"vikram.g@example.com",
+    "phone":890123456,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Facial",
+      "Massage"
+    ],
+    "inactive_categories":[
+      "Hair",
+      "Nails",
+      "Hair Removal"
+    ],
+    "last_visit":"2025-03-12",
+    "missed_visit":true
+  },
+  {
+    "customer_id":7,
+    "name":"Pooja",
+    "email":"pooja.h@example.com",
+    "phone":789012345,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Hair Color",
+      "Haircut"
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-04-20",
+    "missed_visit":true
+  },
+  {
+    "customer_id":8,
+    "name":"Suresh",
+    "email":"suresh.j@example.com",
+    "phone":678901234,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Pedicure",
+      "Manicure"
+    ],
+    "inactive_categories":[
+      "Hair",
+      "Skin",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-03-30",
+    "missed_visit":true
+  },
+  {
+    "customer_id":9,
+    "name":"Nisha",
+    "email":"nisha.l@example.com",
+    "phone":912345678,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+      "Waxing",
+      "Haircut"
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Wellness"
+    ],
+    "last_visit":"2025-04-25",
+    "missed_visit":true
+  },
+  {
+    "customer_id":10,
+    "name":"Arjun",
+    "email":"arjun.n@example.com",
+    "phone":801234567,
+    "frequent_services":[
+
+    ],
+    "rare_services":[
+
+    ],
+    "inactive_categories":[
+      "Skin",
+      "Nails",
+      "Hair Removal",
+      "Wellness"
+    ],
+    "last_visit":"2025-06-06",
+    "missed_visit":false
+  }
+]
